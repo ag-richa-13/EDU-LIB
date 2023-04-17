@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&family=Signika+Negative:wght@300;400;500;600;700&display=swap');
+
+.header-content {
+    min-height: 85vh;
+    background: linear-gradient( rgba(109, 93, 110, 0.3), rgba(210, 118, 133, 0.5)), url("../../Images/lib-img.jpeg") center/cover no-repeat;
+    flex-direction: column;
+
+}
+
+.header-title {
+    font-size: 4.2rem;
+    font-family: 'Inconsolata', monospace;
+}
+
+.header-text {
+    margin-top: -1.8rem;
+    margin-bottom: 2.8rem;
+    opacity: 0.8;
+    max-width: 770px;
+    font-family: 'Signika Negative', sans-serif;
+}

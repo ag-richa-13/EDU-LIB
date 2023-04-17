@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&display=swap');
+.about{
+    padding: 3rem 0;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 1500;
+}
+.about-content{
+    gap: 4rem;
+}
+.about-title{
+    margin: 1rem 0;
+    font-family: 'Comfortaa', cursive;
+    font-weight: 900;
+}
+.about-img img{
+    max-width: 520px;
+}
+.about-text p{
+    margin: 1.8rem 0;
+    opacity: 0.8;
+    font-family: 'Comic Neue', cursive;
+    font-weight: 600;
+}
+
+@media screen and (min-width: 800px){
+    .about-content{
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .about-title{
+        margin-top: 0;
+    }
+    .about-img img{
+        margin-left: 0;
+    }
+}
