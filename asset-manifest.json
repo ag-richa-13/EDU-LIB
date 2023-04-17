@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/edu-lib/static/css/main.7c9f360e.css",
+    "main.js": "/edu-lib/static/js/main.53d4ee88.js",
+    "static/media/lib-img.jpeg": "/edu-lib/static/media/lib-img.bc9a804bfe1142bbda83.jpeg",
+    "static/media/logo-lib.jpg": "/edu-lib/static/media/logo-lib.5d26ee66dbdb741eae96.jpg",
+    "static/media/about-lib.jpg": "/edu-lib/static/media/about-lib.b78987450f318d992367.jpg",
+    "static/media/cover-not-found.jpg": "/edu-lib/static/media/cover-not-found.0271c7aa840ab5eb00c4.jpg",
+    "index.html": "/edu-lib/index.html",
+    "static/media/loader.svg": "/edu-lib/static/media/loader.28c74d04b28f0156ab28f3a81d392251.svg",
+    "main.7c9f360e.css.map": "/edu-lib/static/css/main.7c9f360e.css.map",
+    "main.53d4ee88.js.map": "/edu-lib/static/js/main.53d4ee88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c9f360e.css",
+    "static/js/main.53d4ee88.js"
+  ]
+}
